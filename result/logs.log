@@ -1,0 +1,30 @@
+2019-11-12 19:32:52,317 - logs... - WARNING - error
+2019-11-12 19:40:16,969 - logs... - INFO - resultPath:D:\study\python\interface\result\report.html
+2019-11-12 19:40:16,969 - logs... - INFO - caseLiseFile:D:\study\python\interface\config\caselist.txt
+2019-11-12 19:40:16,969 - logs... - INFO - caseFile:D:\study\python\interface\testcase
+2019-11-12 19:43:58,552 - logs... - INFO - resultPath:D:\study\python\interface\result\report.html
+2019-11-12 19:43:58,553 - logs... - INFO - caseLiseFile:D:\study\python\interface\config\caselist.txt
+2019-11-12 19:43:58,553 - logs... - INFO - caseFile:D:\study\python\interface\testcase
+2019-11-12 19:45:02,009 - logs... - INFO - resultPath:D:\study\python\interface\result\report.html
+2019-11-12 19:45:02,010 - logs... - INFO - caseLiseFile:D:\study\python\interface\config\caselist.txt
+2019-11-12 19:45:02,010 - logs... - INFO - caseFile:D:\study\python\interface\testcase
+2019-11-13 10:47:06,056 - logs... - INFO - resultPath:D:\study\python\interface\result\report.html
+2019-11-13 10:47:06,064 - logs... - INFO - caseLiseFile:D:\study\python\interface\config\caselist.txt
+2019-11-13 10:47:06,064 - logs... - INFO - caseFile:D:\study\python\interface\testcase
+2019-11-13 10:47:24,563 - logs... - INFO - resultPath:D:\study\python\interface\result\report.html
+2019-11-13 10:47:24,563 - logs... - INFO - caseLiseFile:D:\study\python\interface\config\caselist.txt
+2019-11-13 10:47:24,563 - logs... - INFO - caseFile:D:\study\python\interface\testcase
+2019-11-13 10:54:41,391 - logs... - INFO - resultPath:D:\study\python\interface\result\report.html
+2019-11-13 10:54:41,391 - logs... - INFO - caseLiseFile:D:\study\python\interface\config\caselist.txt
+2019-11-13 10:54:41,391 - logs... - INFO - caseFile:D:\study\python\interface\testcase
+2019-11-13 10:55:54,634 - logs... - INFO - resultPath:D:\study\python\interface\result\report.html
+2019-11-13 10:55:54,634 - logs... - INFO - caseLiseFile:D:\study\python\interface\config\caselist.txt
+2019-11-13 10:55:54,634 - logs... - INFO - caseFile:D:\study\python\interface\testcase
+2019-11-13 11:00:36,269 - logs... - INFO - resultPath:D:\study\python\interface\result\report.html
+2019-11-13 11:00:36,269 - logs... - INFO - caseLiseFile:D:\study\python\interface\config\caselist.txt
+2019-11-13 11:00:36,269 - logs... - INFO - caseFile:D:\study\python\interface\testcase
+2019-11-13 11:00:36,269 - logs... - INFO - "Success Init path: <D:\study\python\interface\result\report.html> open a new window and swich into, Spend 0.0 seconds"
+2019-11-13 11:01:18,134 - logs... - INFO - resultPath:D:\study\python\interface\result\report.html
+2019-11-13 11:01:18,134 - logs... - INFO - caseLiseFile:D:\study\python\interface\config\caselist.txt
+2019-11-13 11:01:18,134 - logs... - INFO - caseFile:D:\study\python\interface\testcase
+2019-11-13 11:01:18,134 - logs... - INFO - "Success Init resultPath: <D:\study\python\interface\result\report.html> , Spend 0.0 seconds"

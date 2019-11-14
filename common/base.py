@@ -15,7 +15,7 @@ class base():
         except BaseException as b:
             print(b)
 
-            
+
 print('123')
 
 

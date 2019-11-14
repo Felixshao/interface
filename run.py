@@ -41,6 +41,8 @@ if __name__ == '__main__':
 
     run()
     print('123')
+    print('456')
+    print('456')
 
     # from testcase.BBoosSearch_test import Boos_case
     # # All_Test().set_case_suite()

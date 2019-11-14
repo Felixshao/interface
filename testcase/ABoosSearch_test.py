@@ -49,8 +49,12 @@ class Boos_case(unittest.TestCase):
     #     self.checkResult()
 
     def test2_case(self):
-        
-        print('123')
+        list = [10, 20, 50, 15, 68, 47, 33, 19]
+        for i in range(len(list) - 1):
+            for j in range(len(list) - i - 1):
+                if list[j] > list[j+1]:
+                    list[j], list[j+1] = list[j+1], list[j]
+        print(list)
 
     def checkResult(self):
         result = Runmain().run_main(self.method, self.url, self.params)

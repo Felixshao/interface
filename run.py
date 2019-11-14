@@ -40,6 +40,7 @@ def run():
 if __name__ == '__main__':
 
     run()
+    print('123')
 
     # from testcase.BBoosSearch_test import Boos_case
     # # All_Test().set_case_suite()
